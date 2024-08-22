@@ -1,3 +1,6 @@
+![logo](https://github.com/Yash-shift/Yash-Dixit/blob/main/1000_F_492626298_IIB0K24UX9MhRChvCE1RVGn9v25yWi5W.jpg)
+
+
 <h1 align="center">Hi 👋, I'm Yash Dixit</h1>
 <h3 align="center">A passionate MERN developer And Analyst from India</h3>
 
